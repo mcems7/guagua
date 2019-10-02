@@ -1,1 +1,2 @@
-#https://git-scm.com/book/es/v1/Fundamentos-de-Git-Trabajando-con-repositorios-remotos
+Guagua es un proyecto de LMS que dirigido a los niños y docentes de básica primaria para el apoyo a la enseñanza y el aprendizaje, siendo fácil, dinámico y flexible.
+Cuenta con modulos de cursos, recursos educativos digitales (RED), foros, sistema de formularios o cuestionarios (Forms), además permite comunicarse entre los diferentes actores del proceso educativo como son los estudiantes, acudientes, docentes y directivos.
